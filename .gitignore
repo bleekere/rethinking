@@ -1,0 +1,8 @@
+# Ignore Mac DS_Store files, ipynb checkpoints, RData and old notes
+*.DS_Store
+**/.DS_Store
+**/.ipynb_checkpoints
+**/.RData
+*.RData
+**/.Rhistory
+Statistical-rethinking-notes
